@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.mindtree.usermanagement.controller.test.UserManagementControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 14.782 sec <<< FAILURE! - in com.mindtree.usermanagement.controller.test.UserManagementControllerTest
+testUpdateUser(com.mindtree.usermanagement.controller.test.UserManagementControllerTest)  Time elapsed: 0.234 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.mindtree.usermanagement.controller.test.UserManagementControllerTest.testUpdateUser(UserManagementControllerTest.java:119)
+
+testDeleteUser(com.mindtree.usermanagement.controller.test.UserManagementControllerTest)  Time elapsed: 0.031 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.mindtree.usermanagement.controller.test.UserManagementControllerTest.testDeleteUser(UserManagementControllerTest.java:103)
+

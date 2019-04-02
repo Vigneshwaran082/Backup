@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: usermanagement
+Implementation-Version: 0.1
+Built-By: M1041576
+Implementation-Vendor-Id: com.mindtree
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/user-managem
+ ent/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

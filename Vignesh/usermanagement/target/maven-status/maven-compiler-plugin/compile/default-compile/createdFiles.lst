@@ -1,0 +1,6 @@
+com\mindtree\usermanagement\model\User.class
+com\mindtree\usermanagement\UsermanagementApplication.class
+com\mindtree\usermanagement\service\UserManagementService.class
+com\mindtree\usermanagement\controller\UserManagementController.class
+com\mindtree\usermanagement\service\UserManagementServiceImpl.class
+com\mindtree\usermanagement\repo\UserRepo.class

@@ -1,0 +1,4 @@
+com\mindtree\test\hotelmanagement\controller\RoomManagamenetControllerTest.class
+com\mindtree\test\hotelmanagement\service\RoomManagementServiceTest.class
+com\mindtree\hotelmanagement\HotelManagementApplicationTests.class
+com\mindtree\test\hotelmanagement\config\TestConfig.class
