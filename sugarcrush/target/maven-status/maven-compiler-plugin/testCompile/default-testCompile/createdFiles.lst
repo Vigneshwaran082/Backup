@@ -1,0 +1,5 @@
+com\app\sugarcrush\repo\test\ItemRepoTest.class
+com\app\sugarcrush\config\test\ApplicationConfig.class
+com\app\sugarcrush\repo\test\UserRepoTest.class
+com\app\sugarcrush\repo\test\SugarCrushRepositoryTestSuite.class
+com\app\sugarcrush\repo\test\CakeRepoTest.class
